@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Justiφ's",
+  "base_artist": "ISSA",
+  "createdAt": "2026-01-09T20:50:21.448565Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Justiφ's",
+      "artist": "ISSA",
+      "has_synced": true,
+      "path": "select/01_Justiφ's_ISSA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Justiφ's - Accel Mix",
+      "artist": "ISSA",
+      "has_synced": true,
+      "path": "select/02_Justiφ's_-_Accel_Mix_ISSA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Justiφ's - Justifais",
+      "artist": "ISSA",
+      "has_synced": true,
+      "path": "select/03_Justiφ's_-_Justifais_ISSA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Justiφ's (仮面ライダー555(ファイズ))",
+      "artist": "Issa",
+      "has_synced": true,
+      "path": "select/04_Justiφ's_(仮面ライダー555(ファイズ))_Issa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Justiφ's - TV size version",
+      "artist": "ISSA",
+      "has_synced": true,
+      "path": "select/05_Justiφ's_-_TV_size_version_ISSA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Justiφ's",
+      "artist": "ISSA",
+      "has_synced": true,
+      "path": "select/06_Justiφ's_ISSA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Justiφ's",
+      "artist": "ISSA",
+      "has_synced": false,
+      "path": "select/pl_01_Justiφ's_ISSA.txt"
+    }
+  ]
+}
